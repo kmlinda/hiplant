@@ -1,0 +1,6 @@
+src
+|---adapters
+|---contexts
+|---components
+|---styles
+|---pages
