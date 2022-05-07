@@ -59,3 +59,44 @@ for poller in pollers:
 
 
 exit()
+
+
+
+
+
+
+
+
+
+
+#
+# Save poll data as is to a file
+#
+
+#get poll data
+#save to file
+
+#
+# Convert poll data to json with plant data
+#
+
+#add config file and get plant config data
+#
+
+#
+# Save poll data to cloud mongoDB/blob?
+#
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+
