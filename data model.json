@@ -1,0 +1,64 @@
+{
+    "Plants": [
+        {
+            "plant": {
+                "id": 1,
+                "name": "begonia"
+            },
+            "polls": [
+                {
+                    "temp": 25.23,
+                    "moist": 54,
+                    "cond": 352,
+                    "light": 39,
+                    "dateTime": "2022-08-20T",
+                    "poller": {
+                        "id": 1,
+                        "label": "3"
+                    }
+                },
+                {
+                    "temp": 25.23,
+                    "moist": 54,
+                    "cond": 352,
+                    "light": 39,
+                    "dateTime": "2022-08-20T",
+                    "poller": {
+                        "id": 1,
+                        "label": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "plant": {
+                "id": 2,
+                "name": "hiubiskus"
+            },
+            "polls": [
+                {
+                    "temp": 25.23,
+                    "moist": 54,
+                    "cond": 352,
+                    "light": 39,
+                    "dateTime": "2022-08-20T",
+                    "poller": {
+                        "id": 2,
+                        "label": "1"
+                    }
+                },
+                {
+                    "temp": 25.23,
+                    "moist": 54,
+                    "cond": 352,
+                    "light": 39,
+                    "dateTime": "2022-08-20T",
+                    "poller": {
+                        "id": 2,
+                        "label": "1"
+                    }
+                }
+            ]
+        }
+    ]
+}
